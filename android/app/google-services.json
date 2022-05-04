@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123920107804",
+    "project_id": "ortada-cl",
+    "storage_bucket": "ortada-cl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123920107804:android:271261790cdfe78aabd2d9",
+        "android_client_info": {
+          "package_name": "com.example.coding_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123920107804-l88vosgedo3d7j5io0l2ls5tehso2tk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI35dDtQiyTMlW7nDWOeAlYld77AWlKdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123920107804-l88vosgedo3d7j5io0l2ls5tehso2tk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
